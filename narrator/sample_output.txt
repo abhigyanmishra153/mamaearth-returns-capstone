@@ -1,0 +1,8 @@
+**Situation**  
+Mamaearth’s audited performance shows a cleaned total revenue of Rs 97,358.30, revised from a raw total revenue before cleaning of Rs 99,860.20. The difference caused by removing duplicate orders stands at Rs 2,501.90. A normalized monthly trend indicates that the true peak month was March (2026-03) with revenue of Rs 20,318.90. While January (2026-01) looked like the peak at Rs 29,582.10, it is only Rs 11,637.10 once two bulk orders are excluded.
+
+**Complication**  
+Operational efficiency and regional margins are severely impacted by customer returns, heavily skewed by payment channels and geography. The return rate by payment method is 44.4% for COD, compared to 14.7% for CARD and 18.9% for UPI. The highest-risk segment is COD orders in Tier-2 cities, which suffer from a return rate of 54.5%. Uncleaned revenue figures and unadjusted bulk sales mask these operational vulnerabilities, creating misleading demand signals for regional supply chains.
+
+**Resolution**  
+Regional operations and finance teams must immediately pivot inventory and baseline forecasting to align with the true peak month revenue of Rs 20,318.90 from March (2026-03), stripping out one-off bulk spikes like January's Rs 11,637.10 adjusted performance. Concurrently, regional heads must prioritize reducing exposure to the highest-risk segment of COD orders in Tier-2 cities (54.5% return rate) by incentivizing transitions to lower-risk options like UPI (18.9% return rate) and CARD (14.7% return rate), stemming revenue leakage and stabilizing regional logistics.
